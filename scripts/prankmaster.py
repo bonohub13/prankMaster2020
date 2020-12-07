@@ -40,6 +40,5 @@ class PrankMaster:
         system(self.command[self.os])
 
 if "main" in __name__:
-    print(pathlib.Path(__file__).parent.absolute())
     prank = PrankMaster()
     prank.run()
