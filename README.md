@@ -1,4 +1,4 @@
-# Prank Master 2020
+# Prank Master 2020 (A prank that runs on Windows/GNU+Linux/Mac OS)
 
 ## What this does:
 - Opens up random websites in a list.
